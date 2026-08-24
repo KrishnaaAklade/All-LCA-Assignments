@@ -1,3 +1,1 @@
-#list operations 
-my_list = [Krishna, Sai, Ananya, Aanya]
-print("List Of Names:", my_list)
+
